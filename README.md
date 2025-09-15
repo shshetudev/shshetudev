@@ -1,10 +1,11 @@
 # MD. Shahariar Hossen 👋
+> Like to learn, Love to share
+
 <img src="https://komarev.com/ghpvc/?username=shshetudev&label=Profile+Views&color=a4c639&style=plastic" alt="Profile Views" />
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shshetudev&theme=dark" alt="GitHub Profile Summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shshetudev&theme=dark&layout=compact" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shshetudev&theme=dark&layout=compact" alt="Most Commit Language" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shshetudev&show_icons=true&theme=dark&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shshetudev&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 ---
@@ -52,4 +53,16 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=website&logoColor=white)](https://shshetudev.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shahariar-hossen-9129b5166/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shshetudev)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006735557065)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15048947/md-shahariar-hossen)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shshetu2017@gmail.com)
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shshetudev&theme=darkhub&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
