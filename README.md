@@ -2,8 +2,9 @@
 <img src="https://komarev.com/ghpvc/?username=shshetudev&label=Profile+Views&color=a4c639&style=plastic" alt="Profile Views" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shshetudev&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shshetudev&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shshetudev&theme=dark" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shshetudev&theme=dark&layout=compact" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shshetudev&theme=dark&layout=compact" alt="Most Commit Language" />
 </div>
 
 ---
