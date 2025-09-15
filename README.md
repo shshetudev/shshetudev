@@ -4,7 +4,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shshetudev&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shshetudev&layout=compact&theme=dark" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=shshetudev&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
