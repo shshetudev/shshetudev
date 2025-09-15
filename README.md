@@ -31,7 +31,7 @@
 
 ### 🌐 Connect & Explore
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shshetu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shahariar-hossen-9129b5166/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=website&logoColor=white)](https://shshetudev.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shshetu2017@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shshetudev)
