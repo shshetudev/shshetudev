@@ -1,9 +1,5 @@
 # MD. Shahariar Hossen 👋
-### Senior Full Stack Engineer & Technical Architect
-
-🚀 Helping global enterprises build scalable, secure SaaS platforms that cut costs, boost revenue & pass compliance.  
-🌍 Remote Work Enthusiast | Clients: Norway, Japan, USA, Bangladesh  
-🔧 Expert in Spring Boot, Micronaut, Kubernetes, AWS, Event-Driven Microservices & TDD
+<img src="https://komarev.com/ghpvc/?username=shshetudev&label=Profile+Views&color=a4c639&style=plastic" alt="Profile Views" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shshetudev&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
