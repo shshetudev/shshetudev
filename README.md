@@ -4,11 +4,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=shshetudev&label=Profile+Views&color=a4c639&style=plastic" alt="Profile Views" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shshetudev&show_icons=true&theme=dark&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shshetudev&layout=compact&theme=dark" alt="Top Languages" />
-</div>
-
 ---
 
 ### ✅ Core Skills
