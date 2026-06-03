@@ -1,4 +1,5 @@
-# MD. Shahariar Hossen ![shshetudev.com](shshetudev.com) 👋
+# MD. Shahariar Hossen
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=website&logoColor=white)](https://shshetudev.com/)
 > Like to learn, Love to share
 
 <img src="https://komarev.com/ghpvc/?username=shshetudev&label=Profile+Views&color=a4c639&style=plastic" alt="Profile Views" />
@@ -50,7 +51,6 @@
 
 ### 🌐 Connect & Explore
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=website&logoColor=white)](https://shshetudev.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shahariar-hossen-9129b5166/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shshetudev)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006735557065)
